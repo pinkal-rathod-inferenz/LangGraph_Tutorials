@@ -55,7 +55,7 @@ How LangGraph Implemented?
 
 For tutorial how basic langraph is work, 
 
-https://github.com/pavanbelagatti/LangGraph-Chatbot-Tutorial/blob/main/LangGraph-Tutorial.ipyn 
+[https://github.com/pinkal-rathod-inferenz/LangGraph_Tutorials/blob/main/LangGraph_Tutorials__1.ipynb](https://github.com/pinkal-rathod-inferenz/LangGraph_Tutorials/blob/main/LangGraph_Tutorials__1.ipynb)
  
 
  
